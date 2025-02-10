@@ -1,2 +1,3 @@
 # ST-Gamestudio
-This repo is for games/Creators2025
+
+later we will add all the commands to start the snake game
